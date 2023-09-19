@@ -13,7 +13,7 @@
 </p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-      <img width="300" src="https://github-readme-stats-f7s3qn0gh-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight"/>
+      <img width="300" src="https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight"/>
   </a>
 </col>
 
