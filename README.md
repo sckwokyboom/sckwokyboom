@@ -13,10 +13,13 @@
 </p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-      <img width="300" src="https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight&langs_count=20"/>
-  </a>
+  <img width="300" src="https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight&langs_count=20"/>
+</a>
+<img width="300" src="https://api.githubtrends.io/user/svg/sckwokyboom/langs?include_private=True&theme=dark"/>
 <img width="300" src="https://leetcard.jacoblin.cool/sckwokyboom?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"/>
 </col>
+
+
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/Ferrochet)
 [![VK Badge](https://img.shields.io/badge/-Vkontakte-1155ba?style=for-the-badge&logo=Vk)](https://vk.com/kaitul)
