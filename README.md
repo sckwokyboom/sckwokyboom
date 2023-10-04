@@ -19,13 +19,12 @@
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,c,js)](https://skillicons.dev)
+
+### Full statistics of language usage in all my repositories
+[![Languages](https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 <col>
-<h3>Full statistics of language usage in all my repositories</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img width="300" src="https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight&langs_count=20"/>
-</a>
 <h3>Number of lines of code added in the last year</h3>
-<img width="300" src="https://api.githubtrends.io/user/svg/sckwokyboom/langs?include_private=True&time_range=one_year&loc_metric=added&theme=dark"/>
+<img width="350" src="https://api.githubtrends.io/user/svg/sckwokyboom/langs?include_private=True&time_range=one_year&loc_metric=added&theme=dark"/>
 <h3>My LeetCode statistics</h3>
-<img width="300" src="https://leetcard.jacoblin.cool/sckwokyboom?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"/>
+<img width="350" src="https://leetcard.jacoblin.cool/sckwokyboom?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"/>
 </col>
