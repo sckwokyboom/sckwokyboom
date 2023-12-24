@@ -2,6 +2,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/Ferrochet)
 [![VK Badge](https://img.shields.io/badge/-Vkontakte-1155ba?style=for-the-badge&logo=Vk)](https://vk.com/kaitul)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sckwokyboom@gmail.com)
+
 <col>
 <p align="center">
   <img src="https://64.media.tumblr.com/b681b296c1433d478a3f5822bc866a22/tumblr_p9hslnxJbo1rnbw6mo4_540.gif" width="300" align="right">
@@ -27,3 +28,5 @@
 <h3>My LeetCode statistics</h3>
 <img width="350" src="https://leetcard.jacoblin.cool/sckwokyboom?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"/>
 </col>
+
+![](https://komarev.com/ghpvc/?username=sckwo&style=for-the-badge&color=ab1f2c)
