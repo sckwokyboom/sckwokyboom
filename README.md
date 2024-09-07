@@ -9,9 +9,9 @@
   <h3>About me:</h3>
   <h4>
      <ul>
-        <li>🦍 20 years old NSU student
-         <li>🐒Strive to become a full-fledged ML-developer.
-        <li>🦧Can't think of what to write in my GitHub profile.
+        <li>🦍 21 years old NSU student
+         <li>🐒 IDE-developer, Huawei Russia 
+        <li>🦧 Can't think of what to write in my GitHub profile.
     </ul>
   </h5>
 </p>
