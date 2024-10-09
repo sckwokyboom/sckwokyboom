@@ -9,9 +9,9 @@
   <h3>About me:</h3>
   <h4>
      <ul>
-        <li>🦍 21 years old NSU student
-         <li>🐒 IDE-developer, Huawei Russia 
-        <li>🦧 Can't think of what to write in my GitHub profile.
+        <li>🦧 21 years old NSU student
+        <li>🐒 IDE-developer 
+        <li>🦍 Work at Huawei
     </ul>
   </h5>
 </p>
