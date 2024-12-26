@@ -19,7 +19,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,c,python,js,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,cpp,c,js,ts,haskell)](https://skillicons.dev)
 ### Full statistics of language usage in all my repositories
 [![Languages](https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <col>
