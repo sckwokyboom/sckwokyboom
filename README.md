@@ -9,9 +9,8 @@
   <h3>About me:</h3>
   <h4>
      <ul>
-        <li>🦧 21 years old NSU student
-        <li>🐒 IDE-developer 
-        <li>🦍 Work at Huawei
+        <li>🦧 22 years old NSU student
+        <li>🐒 IDE-developer at Huawei, ML/DS
     </ul>
   </h5>
 </p>
@@ -19,7 +18,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,cpp,c,js,ts,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,cpp,c,js,ts)](https://skillicons.dev)
 ### Full statistics of language usage in all my repositories
 [![Languages](https://github-readme-stats-sckwokyboom.vercel.app/api/top-langs/?username=sckwokyboom&count-private=true&layout=donut&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <col>
