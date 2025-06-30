@@ -10,7 +10,7 @@
   <h4>
      <ul>
         <li>🦧 22 years old NSU student
-        <li>🐒 IDE-developer at Huawei, ML/DS
+        <li>🐒 IDE-developer at Huawei
     </ul>
   </h5>
 </p>
